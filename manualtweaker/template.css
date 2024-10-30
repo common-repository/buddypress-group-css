@@ -1,0 +1,46 @@
+<style type="text/css">
+
+body { color: #BP_COL_02 }
+body { color: #BP_COL_02 }
+
+body { background: #BP_COL_01 }
+html { background-color: #BP_COL_01 }
+
+div#container { background-color: #BP_COL_03 }
+
+div#sidebar { background: #BP_COL_04 }
+div#sidebar h3.widgettitle { background: #BP_COL_05; color: #BP_COL_14 }
+div#sidebar div.item-options { background: #BP_COL_06; }
+
+div.item-list-tabs  { background: #BP_COL_07 }
+
+div#subnav.item-list-tabs, div.pagination  { background: #BP_COL_08 }
+
+div.item-list-tabs ul li.selected a, div.item-list-tabs ul li.current a { background-color: #BP_COL_09 }
+
+#item-nav a, #subnav a, .item-options a, .item-title a, #member-list a, div.pagination { color: #BP_COL_10 }
+
+span.activity, div#message p {
+background: #BP_COL_11;
+border-bottom: 1px solid #BP_COL_12;
+border-right: 1px solid #BP_COL_12;
+color: #BP_COL_13;
+}
+
+div#item-header h2 a, div#item-header div#item-meta  {
+color:#BP_COL_02;
+}
+
+/* lines */
+
+ul.item-list li, div.pagination { border-bottom:1px solid #BP_COL_15; }
+div#container { border-bottom:1px solid #BP_COL_15; 
+border-right:1px solid #BP_COL_15; }
+div#content .padder { border-right:1px solid #BP_COL_15; }
+div#sidebar { border-left:1px solid #BP_COL_15; }
+
+div#subnav.item-list-tabs  { border-bottom: 0px solid #BP_COL_15; } 
+
+/* extra */
+div#subnav.item-list-tabs ul li { margin-top: 5px; }
+</style>

@@ -1,0 +1,46 @@
+/*
+Theme Name: Tasty Orange
+*/
+
+body { background: #F28D35 !important }
+div.item-list-tabs#subnav ( margin: -20px -20px 15px  }
+a { color: #F28D35; }
+div.item-list-tabs a { color: #fff;}
+div.item-list-tabs ul li.selected a, div.item-list-tabs ul li.current a { background-color:#4878D9; color: #fff; }
+#item-body, #blog-single, #container { background: #F2D680; color: #333333; }
+div#container, div#content { background-color: #F2D680; }
+.item-list-tabs  { background: transparent; }
+div#subnav.item-list-tabs  { background: #4878D9; border-bottom:1px solid #1F47BF; }
+form#whats-new-form h5 { color:#000000; }
+div.pagination { background:#4878D9; color:#FFFFFF; border-bottom: 1px solid #1F47BF; }
+.forum th { background: #77A1D9; color: #000000 }
+div.pagination a.button { background: #292b28; color: #be5a48; border: #000000 }
+#subnav { background: #4878D9!important; }
+#item-body form#whats-new-form { background: #4878D9; }
+div.pagination a.button { background:none repeat scroll 0 0 #1F47BF; color:#FFFFFF; }
+div.item-list-tabs#subnav, div.pagination {  
+margin-top: -20px;
+ }
+
+div#sidebar {
+background: #ffffff none;
+border-left: 1px solid #000044;
+}
+
+div#item-header {
+margin: -20px;
+background: #eaeaea;
+padding: 5px;
+}
+
+div.item-list-tabs {
+background: #77a2d9;
+}
+
+div.item-list-tabs ul li a, div.item-list-tabs ul li span {
+color: #000044
+}
+
+#item-body form#whats-new-form {
+background: #f2d780;
+}

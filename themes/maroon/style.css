@@ -1,0 +1,40 @@
+/*
+Theme Name: Marooned
+*/
+
+body { background: #292b28 }
+a { color:#FF8C54; }
+div.item-list-tabs { background: #292b28 }
+div.item-list-tabs a { color: #ff8c54 }
+div.item-list-tabs ul li.selected a, div.item-list-tabs ul li.current a { background-color:#78283c; color:#ff8c54; }
+#item-body, #blog-single { background: #ffffff; color: #292b28 ; }
+div#subnav.item-list-tabs  { background: #78283C;  }
+form#whats-new-form h5 { color:#000000; }
+div.pagination { background:#78283C; color:#FFFFFF; border-bottom: 1px solid #292b28; }
+.forum th { background: #be5a48 }
+div.pagination a.button { background: #292b28; color: #be5a48; border: #000000 }
+#subnav { background: #78283C!important; }
+
+div.item-list-tabs#subnav, div.pagination {  
+margin-top: -20px;
+}
+
+div#sidebar {
+background: #ffffff none;
+border-left: 1px solid #000044;
+}
+
+div#item-header {
+margin: -20px;
+background: #f2dec5;
+padding: 5px;
+}
+
+div.item-list-tabs {
+background: #be5b46;
+}
+
+#item-body form#whats-new-form {
+background: #eaeaea;
+margin: -20px;
+}

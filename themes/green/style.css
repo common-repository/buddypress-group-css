@@ -1,0 +1,65 @@
+/*
+Theme Name: Parrump parrump!
+*/
+
+body { background: #3D2D24}
+a { color:#3D2D24 }
+div.item-list-tabs { background: #213633}
+div.item-list-tabs a { color: #786F56}
+div.item-list-tabs ul li.selected a, div.item-list-tabs ul li.current a { background-color:#3D2D24; color:#786F56; }
+div#subnav.item-list-tabs  {border-bottom:1px solid #3D2D24;}
+div.item-list-tabs ul { margin-top: 4px;}
+div.pagination .pag-count {color:#786F56;}
+div.pagination {background:none repeat scroll 0 0 #213633; border-bottom:1px solid #3D2D24;}
+#subnav { background: #213633 !important; }
+#item-body, #blog-single { background:#8A896C; color: #000000 }
+#link-details-form fieldset {border:3px solid #213633;}
+#link-details-form.standard-form fieldset input[type=text], #link-details-form.standard-form fieldset textarea  {margin-bottom: 5px;}
+#link-details-form fieldset legend {background:none repeat scroll 0 0 #786F56;border:2px solid #213633;}
+#link-details-form fieldset legend a:hover, a:active{color: #213633; }
+form#whats-new-form h5 {color:#3D2D24;}
+form.standard-form textarea, form.standard-form input[type=text], form.standard-form select, form.standard-form input[type=password], .dir-search input[type=text] {color:#3D2D24;}
+form.standard-form div.checkbox label, form.standard-form div.radio label {color:#3D2D24;}
+ul#link-list li div.item-desc span.domain {color:#3D2D24;}
+ul.item-list li div.meta {-moz-border-radius:3px 3px 3px 3px;background:none repeat scroll 0 0 #213633;border:1px solid #213633;color:#786F56;padding:2px;}
+ul.item-list li {border-bottom:1px solid #3D2D24;}
+a:hover, a:active {color: #213633; }
+a.button, input[type=submit], input[type=button], ul.button-nav li a, div.generic-button a {color:#3D2D24;}
+.activita.button, input[type=submit], input[type=button], ul.button-nav li a, div.generic-button a {color:#3D2D24;}
+y-list li.mini .activity-content p {color:#3D2D24;}
+.activity-list .activity-content span.time-since {color:#213633;}
+.activity-list div.activity-meta a.acomment-reply {background:none repeat scroll 0 0 #213633;color:#786F56;}
+.activity-list div.activity-meta a {background:none repeat scroll 0 0 #213633;color:#786F56;}
+.activity-list .activity-header a:first-child, span.highlight {color:#213633;}
+.activity-list .activity-header a:first-child:hover {background: #3D2D24;color: #213633;}
+span.activity, div#message p {background:none repeat scroll 0 0 #786F56;color:#3D2D24;}
+form.standard-form textarea, form.standard-form input[type=text], form.standard-form select, form.standard-form input[type=password], .dir-search input[type=text] {color:#3D2D24;}
+p:last-child {color:#333333;}
+
+div#container {
+background: #8a896b;
+}
+
+div.item-list-tabs#subnav, div.pagination {  
+margin-top: -20px;
+}
+
+div#sidebar {
+background: #ffffff none;
+border-left: 1px solid #000044;
+}
+
+div#item-header {
+margin: -20px;
+background: #796f56;
+padding: 5px;
+}
+
+div.item-list-tabs {
+background: #5b4e3d;
+}
+
+#item-body form#whats-new-form {
+background: #eaeaea;
+margin: -20px;
+}
